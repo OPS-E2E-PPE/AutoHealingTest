@@ -1,0 +1,11 @@
+- name: Azure
+  tocHref: https://thisisfakelink.com
+  topicHref: /azure/index
+  items:
+  - name: CSP
+    tocHref: /azure/cloud-solution-provider/
+    topicHref: /azure/cloud-solution-provider/
+    items:
+      - name: Program Overview
+        tocHref: /azure/cloud-solution-provider/azure-csp-overview/
+        topicHref: /azure/cloud-solution-provider/azure-csp-overview/

@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path_from_root": "/a.md",
+      "redirect_url": "/thisisfakelink",
+      "redirect_document_id": false
+    }
+  ]
+}

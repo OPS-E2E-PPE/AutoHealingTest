@@ -1,0 +1,38 @@
+- name: Azure
+  tocHref: /azure/
+  topicHref: /azure/index
+  items:
+  - name: CSP
+    tocHref: https://thisisfakelink1.com
+    topicHref: https://thisisfakelink1.com
+    items:
+      - name: Program Overview
+        tocHref: /azure/cloud-solution-provider/azure-csp-overview/
+        topicHref: /azure/cloud-solution-provider/azure-csp-overview/
+      - name: Available Services
+        tocHref: /azure/cloud-solution-provider/azure-csp-available-services/
+        topicHref: /azure/cloud-solution-provider/azure-csp-available-services/
+      - name: Partner Center Overview
+        tocHref: /azure/cloud-solution-provider/partner-center-overview/
+        topicHref: /azure/cloud-solution-provider/partner-center-overview/
+      - name: Partner shared services
+        tocHref: /azure/cloud-solution-provider/partner-shared-services/
+        topicHref: /azure/cloud-solution-provider/partner-shared-services/
+      - name: Management Options
+        tocHref: /azure/cloud-solution-provider/azure-csp-management-options/
+        topicHref: /azure/cloud-solution-provider/azure-csp-management-options/
+      - name: Manage Customers
+        tocHref: /azure/cloud-solution-provider/customer-management/
+        topicHref: /azure/cloud-solution-provider/customer-management/
+      - name: Support
+        tocHref: /azure/cloud-solution-provider/support/
+        topicHref: /azure/cloud-solution-provider/support/
+      - name: Billing
+        tocHref: /azure/cloud-solution-provider/billing/
+        topicHref: /azure/cloud-solution-provider/billing/
+      - name: Integration
+        tocHref: /azure/cloud-solution-provider/integration/
+        topicHref: /azure/cloud-solution-provider/integration/
+      - name: Migration
+        tocHref: /azure/cloud-solution-provider/migration/
+        topicHref: /azure/cloud-solution-provider/migration/

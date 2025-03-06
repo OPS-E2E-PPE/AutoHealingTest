@@ -1,0 +1,49 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**",
+          "**/_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "brand": "azure",
+      "ms.service": "azure-csp",
+      "searchScope": [
+        "Azure"
+      ],
+      "breadcrumb_path": "https://thisisfakelink.com"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "azure-csp",
+    "markdownEngineName": "markdig"
+  }
+}
